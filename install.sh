@@ -12,8 +12,8 @@ NC='\033[0m' # 恢复默认颜色
 
 # 定义 GitHub 仓库信息
 GITHUB_USER="sockc"
-REPO_NAME="ufwm"           # 如果你的仓库叫别的名字，请修改这里
-SCRIPT_NAME="ufwm.sh"      # 你的主菜单脚本名称
+REPO_NAME="ufw"           # 如果你的仓库叫别的名字，请修改这里
+SCRIPT_NAME="ufw.sh"      # 你的主菜单脚本名称
 CMD_NAME="ufwm"            # 用户在终端输入的快捷命令
 INSTALL_DIR="/usr/local/bin"
 RAW_URL="https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/${SCRIPT_NAME}"
